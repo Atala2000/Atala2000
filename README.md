@@ -2,11 +2,11 @@
 # Kidiavayi Atala
 
 <!-- Introduction -->
-Hi there! I'm Kidiavayi, a passionate developer from [Your City, Your Country]. I love building and tinkering with all things web and mobile. 
+Hi there! I'm Kidiavayi, a passionate developer from Nairobi, Kenya. I love building and tinkering with all things web and mobile. 
 
 <!-- About Me -->
 ## About Me
-- 🎓 Computer Science Graduate
+- 🎓 Business Information Technology Graduate
 - 💼 Full Stack Developer
 - 🌱 Currently learning : MySQL and Python
 - 😄 Pronouns: He/Him
@@ -18,9 +18,9 @@ Hi there! I'm Kidiavayi, a passionate developer from [Your City, Your Country]. 
 
 <!-- My Projects -->
 ## My Projects
-- [CTL Website(https://github.com/Atala2000/Collaborative-Tech): Simple static Website for Collaborative Technologies Limited
-- [Project 2](https://github.com/yourusername/project2): Short project description.
-- [Project 3](https://github.com/yourusername/project3): Short project description.
+- [CTL Website}(https://github.com/Atala2000/Collaborative-Tech): Simple static Website for Collaborative Technologies Limited
+- [AirBnB Clone](https://github.com/Atala2000/AirBnB_clone
+): AirBnB clone that consists of a custom made cmd interface and a simple front-end web design.
 
 <!-- Get in Touch -->
 ## Get in Touch
@@ -28,7 +28,7 @@ Hi there! I'm Kidiavayi, a passionate developer from [Your City, Your Country]. 
 
 <!-- GitHub Stats -->
 ## GitHub Stats
-![John's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Atala2000&show_icons=true)
+![Kidiavayi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Atala2000&show_icons=true)
 
 <!-- Most Used Languages -->
 ## Most Used Languages
