@@ -2,20 +2,19 @@
 # John Doe
 
 <!-- Introduction -->
-Hi there! I'm John, a passionate developer from [Your City, Your Country]. I love building and tinkering with all things web and mobile. 
+Hi there! I'm Kidiavayi, a passionate developer from [Your City, Your Country]. I love building and tinkering with all things web and mobile. 
 
 <!-- About Me -->
 ## About Me
 - 🎓 Computer Science Graduate
 - 💼 Full Stack Developer
-- 🌱 Currently learning [Technology/Topic]
+- 🌱 Currently learning : MySQL and Python
 - 😄 Pronouns: He/Him
 
 <!-- Languages and Tools -->
 ## Languages and Tools
-- 👨‍💻 HTML, CSS, JavaScript, Python, Java, C++
-- 🛠️ React, Node.js, Express, MongoDB
-- 🌐 Git, VS Code, Heroku
+- 👨‍💻 HTML, CSS, Python, C, MySQL
+- 🌐 Git, VS Code, 
 
 <!-- My Projects -->
 ## My Projects
@@ -25,14 +24,11 @@ Hi there! I'm John, a passionate developer from [Your City, Your Country]. I lov
 
 <!-- Get in Touch -->
 ## Get in Touch
-- 📧 Email: john@example.com
-- 🐦 Twitter: [@JohnDoe](https://twitter.com/JohnDoe)
-- 💼 LinkedIn: [JohnDoe](https://www.linkedin.com/in/JohnDoe/)
-- 🌐 Website: [https://www.johndoe.com](https://www.johndoe.com)
+- 📧 Email: atalakidi@gmail.com
 
 <!-- GitHub Stats -->
 ## GitHub Stats
-![John's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+![John's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Atala2000&show_icons=true)
 
 <!-- Most Used Languages -->
 ## Most Used Languages
