@@ -13,7 +13,7 @@ Hi there! I'm Kidiavayi, a passionate developer from Nairobi, Kenya. I love buil
 
 <!-- Languages and Tools -->
 ## Languages and Tools
-- 👨‍💻 HTML, CSS, Python, C, MySQL
+- 👨‍💻 <i class="fab fa-html5"></i>HTML, CSS, Python, C, MySQL
 - 🌐 Git, VS Code, 
 
 <!-- My Projects -->
