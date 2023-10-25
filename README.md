@@ -18,7 +18,7 @@ Hi there! I'm Kidiavayi, a passionate developer from Nairobi, Kenya. I love buil
 
 <!-- My Projects -->
 ## My Projects
-- [CTL Website}(https://github.com/Atala2000/Collaborative-Tech): Simple static Website for Collaborative Technologies Limited
+- [CTL Website](https://github.com/Atala2000/Collaborative-Tech): Simple static Website for Collaborative Technologies Limited
 - [AirBnB Clone](https://github.com/Atala2000/AirBnB_clone
 ): AirBnB clone that consists of a custom made cmd interface and a simple front-end web design.
 
