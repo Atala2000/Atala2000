@@ -14,10 +14,21 @@ Hi there! I'm Kidiavayi, a passionate developer from Nairobi, Kenya. I love buil
 <!-- Languages and Tools -->
 ## Languages and Tools
 - 👨‍💻 <!-- GitHub Icon -->
-!(<i class="fab fa-github"></i>) Find me on GitHub: [GitHub Profile](https://github.com/Atala2000)
-HTML, CSS, Python, C, MySQL
-- 🌐 Git, VS Code,
-- <i style="color: #007BFF;" class="fab fa-github"></i>
+<!-- HTML Icon -->
+<i class="fab fa-html5"></i> HTML
+
+<!-- CSS Icon -->
+<i class="fab fa-css3"></i> CSS
+
+<!-- Python Icon -->
+<i class="fab fa-python"></i> Python
+
+<!-- C Icon -->
+<i class="fas fa-c"></i> C
+
+<!-- MySQL Icon -->
+<i class="fas fa-database"></i> MySQL
+
 
 
 <!-- My Projects -->
