@@ -1,5 +1,6 @@
 <!-- Your Name -->
 # Kidiavayi Atala
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css">
 
 <!-- Introduction -->
 Hi there! I'm Kidiavayi, a passionate developer from Nairobi, Kenya. I love building and tinkering with all things web and mobile. 
