@@ -1,5 +1,5 @@
 <!-- Your Name -->
-# John Doe
+# Kidiavayi Atala
 
 <!-- Introduction -->
 Hi there! I'm Kidiavayi, a passionate developer from [Your City, Your Country]. I love building and tinkering with all things web and mobile. 
@@ -32,7 +32,7 @@ Hi there! I'm Kidiavayi, a passionate developer from [Your City, Your Country]. 
 
 <!-- Most Used Languages -->
 ## Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Atala2000)
 
 <!-- Footer -->
 ## 🚀 Let's build amazing things together!
