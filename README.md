@@ -20,6 +20,7 @@ Hi there! I'm Kidiavayi, a passionate developer from Nairobi, Kenya. I love buil
 ![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 ![Shell](https://img.shields.io/badge/shell-%232c3e50.svg?style=for-the-badge&logo=gnu-bash)
+![MySQL](https://img.shields.io/badge/mysql-%232c3e50.svg?style=for-the-badge&logo=mysql)
 
 
 
