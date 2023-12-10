@@ -40,9 +40,9 @@ Hi there! I'm Kidiavayi, a passionate developer from Nairobi, Kenya. I love buil
 
 <!-- Most Used Languages -->
 ## Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Atala2000)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Atala2000) [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Atala2000/langs)](https://githubtrends.io)
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Atala2000/langs)](https://githubtrends.io)
+
 
 <!-- Footer -->
 ## 🚀 Let's build amazing things together!
