@@ -21,7 +21,7 @@ Hi there! I'm Kidiavayi, a passionate developer from Nairobi, Kenya. I love buil
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 ![Shell](https://img.shields.io/badge/shell-%232c3e50.svg?style=for-the-badge&logo=gnu-bash)
 ![MySQL](https://img.shields.io/badge/mysql-%232c3e50.svg?style=for-the-badge&logo=mysql)
-
+![NPM](https://img.shields.io/badge/npm-%232c3e50.svg?style=for-the-badge&logo=npm)
 
 
 <!-- My Projects -->
