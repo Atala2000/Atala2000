@@ -26,7 +26,7 @@ Hi there! I'm Kidiavayi, a passionate developer from Nairobi, Kenya. I love buil
 ## Technologies
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%232c3e50.svg?style=for-the-badge&logo=bootstrap)
 ![Flask](https://img.shields.io/badge/flask-%232c3e50.svg?style=for-the-badge&logo=flask)
-
+![Django](https://img.shields.io/badge/django-%232c3e50.svg?style=for-the-badge&logo=django)
 <!-- My Projects -->
 ## My Projects
 - [CTL Website](https://github.com/Atala2000/Collaborative-Tech): Simple static Website for Collaborative Technologies Limited
