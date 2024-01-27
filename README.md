@@ -23,6 +23,8 @@ Hi there! I'm Kidiavayi, a passionate developer from Nairobi, Kenya. I love buil
 ![MySQL](https://img.shields.io/badge/mysql-%232c3e50.svg?style=for-the-badge&logo=mysql)
 ![NPM](https://img.shields.io/badge/npm-%232c3e50.svg?style=for-the-badge&logo=npm)
 
+## Technologies
+![Bootstrap](https://img.shields.io/badge/bootstrap-%232c3e50.svg?style=for-the-badge&logo=bootstrap)
 
 <!-- My Projects -->
 ## My Projects
