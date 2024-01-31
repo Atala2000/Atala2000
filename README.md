@@ -3,13 +3,13 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css">
 
 <!-- Introduction -->
-Hi there! I'm Kidiavayi, a passionate developer from Nairobi, Kenya. I love building and tinkering with all things web and mobile. 
+Hi there! I'm Kidiavayi, a passionate developer from Nairobi, Kenya. I love building and tinkering with all things web and mobile.
 
 <!-- About Me -->
 ## About Me
 - 🎓 Business Information Technology Graduate
 - 💼 Full Stack Developer
-- 🌱 Currently learning : MySQL and Python
+- 🌱 Currently learning: MySQL and Python
 - 😄 Pronouns: He/Him
 
 <!-- Languages and Tools -->
@@ -28,11 +28,11 @@ Hi there! I'm Kidiavayi, a passionate developer from Nairobi, Kenya. I love buil
 ![Flask](https://img.shields.io/badge/flask-%232c3e50.svg?style=for-the-badge&logo=flask)
 ![Django](https://img.shields.io/badge/django-%232c3e50.svg?style=for-the-badge&logo=django)
 ![Sass](https://img.shields.io/badge/sass-%232c3e50.svg?style=for-the-badge&logo=sass)
+
 <!-- My Projects -->
 ## My Projects
 - [CTL Website](https://github.com/Atala2000/Collaborative-Tech): Simple static Website for Collaborative Technologies Limited
-- [AirBnB Clone](https://github.com/Atala2000/AirBnB_clone
-): AirBnB clone that consists of a custom made cmd interface and a simple front-end web design.
+- [AirBnB Clone](https://github.com/Atala2000/AirBnB_clone): AirBnB clone that consists of a custom-made cmd interface and a simple front-end web design.
 
 <!-- Get in Touch -->
 ## Get in Touch
@@ -44,9 +44,7 @@ Hi there! I'm Kidiavayi, a passionate developer from Nairobi, Kenya. I love buil
 
 <!-- Most Used Languages -->
 ## Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Atala2000) (https://api.githubtrends.io/user/svg/Atala2000/langs?time_range=six_months&compact=True&theme=synthwaves) [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Atala2000/langs)](https://githubtrends.io)
-
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Atala2000)
 
 <!-- Footer -->
 ## 🚀 Let's build amazing things together!
