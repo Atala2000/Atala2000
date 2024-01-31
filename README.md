@@ -1,5 +1,5 @@
 <!-- Your Name -->
-<div id="header" align="center"><h2>Kidiavayi Atala</h2></div>
+<div id="header" align="center" style="font-family: 'Kanit'"><h2>Kidiavayi Atala</h2></div>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css">
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXp3d3BiMDljMGk1amUzdTNwb2Q5a284NnZxbzE3ZTFndHllaWZrcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300"/>
