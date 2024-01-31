@@ -41,7 +41,7 @@ Hi there! I'm Kidiavayi, a passionate developer from Nairobi, Kenya. I love buil
 <!-- GitHub Stats -->
 ## GitHub Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Atala2000&theme=gotham&border_radius=10&card_width=490)](https://git.io/streak-stats)
-![Atala's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Atala's GitHub stats](https://github-readme-stats.vercel.app/api?username=Atala2000&show_icons=true&theme=radical)
 <!-- Most Used Languages -->
 ## Most Used Languages
 ![Top Languages](https://api.githubtrends.io/user/svg/Atala2000/langs?time_range=six_months&compact=True&theme=synthwaves)
