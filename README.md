@@ -40,6 +40,7 @@ Hi there! I'm Kidiavayi, a passionate developer from Nairobi, Kenya. I love buil
 
 <!-- GitHub Stats -->
 ## GitHub Stats
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Atala2000&theme=dark&background=000000)](https://git.io/streak-stats)
 ![Kidiavayi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Atala2000&show_icons=true)
 
 <!-- Most Used Languages -->
