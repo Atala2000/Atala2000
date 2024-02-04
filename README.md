@@ -30,6 +30,7 @@ Hi there! I'm Kidiavayi, a passionate developer from Nairobi, Kenya. I love buil
 ![Flask](https://img.shields.io/badge/flask-%232c3e50.svg?style=for-the-badge&logo=flask)
 ![Django](https://img.shields.io/badge/django-%232c3e50.svg?style=for-the-badge&logo=django)
 ![Sass](https://img.shields.io/badge/sass-%232c3e50.svg?style=for-the-badge&logo=sass)
+![jQuery](https://img.shields.io/badge/jquery-%232c3e50.svg?style=for-the-badge&logo=jquery)
 
 <!-- My Projects -->
 ## My Projects
