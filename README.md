@@ -25,6 +25,7 @@ Hi there! I'm Kidiavayi, a passionate developer from Nairobi, Kenya. I love buil
 ![Shell](https://img.shields.io/badge/shell-%232c3e50.svg?style=for-the-badge&logo=gnu-bash)
 ![MySQL](https://img.shields.io/badge/mysql-%232c3e50.svg?style=for-the-badge&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%232c3e50.svg?style=for-the-badge&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/mongodb-%232c3e50.svg?style=for-the-badge&logo=mongodb)
 ![NPM](https://img.shields.io/badge/npm-%232c3e50.svg?style=for-the-badge&logo=npm)
 
 ## Technologies and Frameworks
