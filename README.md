@@ -11,7 +11,7 @@ Hi there! I'm Kidiavayi, a passionate developer from Nairobi, Kenya. I love buil
 ## About Me
 - 🎓 Business Information Technology Graduate
 - 💼 Full Stack Developer
-- 🌱 Currently learning: MySQL and Python
+- 🌱 Currently learning: React and TypeScript
 - 😄 Pronouns: He/Him
 
 <!-- Languages and Tools -->
